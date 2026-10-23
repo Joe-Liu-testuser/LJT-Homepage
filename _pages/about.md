@@ -9,14 +9,14 @@ redirect_from:
 
 ## Personal Details
 
-Junteng Liu is a first-year PhD candidate in the NLP Group at the Hong Kong University of Science and Technology (HKUST), advised by Professor Junxian He. He graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
+Junteng Liu is a first-year PhD candidate in the NLP Group at the Hong Kong University of Science and Technology (HKUST), advised by Professor Junxian He, who also advised him during his undergraduate studies at SJTU. He graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 His research focuses on natural language processing and machine learning, with interests in large language model (LLM) reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
 
 ## Academic Background
 
 - **Ph.D. in Computer Science** (2024–Present) — Hong Kong University of Science and Technology (HKUST)
-  - Supervisor: Professor Junxian He
+  - Supervisor: Professor Junxian He (previously advised during his undergraduate studies at SJTU)
 - **B.Eng.** (2020–2024) — Shanghai Jiao Tong University (SJTU), graduated in June 2024
 
 ## Research Experience
@@ -59,6 +59,6 @@ His research focuses on natural language processing and machine learning, with i
 ## Contact
 
 - **Email:** jliugi@connect.ust.hk
-- **GitHub:** https://github.com/Vicent0205
-- **Google Scholar:** https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
-- **X (Twitter):** https://twitter.com/junteng88716710
+- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
