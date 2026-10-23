@@ -15,16 +15,16 @@ His research focuses on natural language processing and machine learning, with i
 
 ## Academic Background
 
-- **Ph.D. in Computer Science** (2024–Present) — Hong Kong University of Science and Technology (HKUST)
+- **Ph.D. in Computer Science** (2024-Present) — Hong Kong University of Science and Technology (HKUST)
   - Supervisor: Professor Junxian He (previously advised during his undergraduate studies at SJTU)
-- **B.Eng.** (2020–2024) — Shanghai Jiao Tong University (SJTU), graduated in June 2024
+- **B.Eng.** (2020-2024) — Shanghai Jiao Tong University (SJTU), graduated in June 2024
 
 ## Research Experience
 
-- **Research Intern** — MINIMAX (February 2025 – Present)
-- **Research Intern** — Tencent WXG (June 2024 – September 2024)
+- **Research Intern** — MINIMAX (February 2025 - Present)
+- **Research Intern** — Tencent WXG (June 2024 - September 2024)
   - Advisor: Zifei Shan
-- **Research Intern** — Shanghai AI Lab (June 2023 – December 2023)
+- **Research Intern** — Shanghai AI Lab (June 2023 - December 2023)
   - Advisor: Prof. Yu Cheng
 
 ## Research Skills
