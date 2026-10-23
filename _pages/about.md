@@ -38,11 +38,11 @@ His research focuses on natural language processing and machine learning, with i
 
 ### First-author papers
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv preprint*, 2025.
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**. **Junteng Liu** (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv preprint*, 2025.
 
-2. **On the Perception Bottleneck of VLMs for Chart Understanding**. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv preprint*, 2025.
+2. **On the Perception Bottleneck of VLMs for Chart Understanding**. **Junteng Liu** (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv preprint*, 2025.
 
-3. **On the Universal Truthfulness Hyperplane Inside LLMs**. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2024.
+3. **On the Universal Truthfulness Hyperplane Inside LLMs**. **Junteng Liu** (first author), Shiqi Chen, Yu Cheng, Junxian He. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2024.
 
 ### Other publications
 
