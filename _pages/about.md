@@ -13,10 +13,12 @@ Personal Details
 * **Name:** Junteng Liu
 * **Current Position:** First-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology
 * **Affiliation:** Hong Kong University of Science and Technology
+* **Advisor:** Professor Junxian He (Ph.D. supervisor; previously advised me during my undergraduate studies at SJTU)
+* **Research Focus:** Natural Language Processing and Machine Learning
 
-I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. I am advised by Professor Junxian He, who also advised me during my undergraduate studies at SJTU.
+I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
-My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
+My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
 Academic Background
 ======
@@ -57,6 +59,8 @@ Publications
 
 * **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
   * Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+
+See the [Publications](/publications/) page for the categorized publication list.
 
 Skills
 ======
