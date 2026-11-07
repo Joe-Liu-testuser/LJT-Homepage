@@ -22,7 +22,7 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 – Present
 - **B.Eng.**, Shanghai Jiao Tong University, 2020 – 2024
 
-I am supervised by Professor Junxian He at the HKUST NLP Group, who also advised me during my undergraduate studies at SJTU.
+I am supervised by Professor Junxian He, who leads the HKUST NLP Group and also advised me during my undergraduate studies at SJTU.
 
 ## Research Experience
 
